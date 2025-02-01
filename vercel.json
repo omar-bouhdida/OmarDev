@@ -1,0 +1,13 @@
+{
+    "build": {
+      "env": {
+        
+      }
+    },
+    "routes": [
+      {
+        "src": "/.*",
+        "dest": "./index.html" 
+      }
+    ]
+  }
