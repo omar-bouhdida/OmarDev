@@ -33,7 +33,7 @@ const Contact = () => {
               <ContactInfo
                 icon={<MapPin />}
                 title="Location"
-                content="Bizerte, Tunisia"
+                content="Ras Jebel, Bizerte, Tunisia"
               />
             </div>
           </div>
